@@ -1,5 +1,6 @@
-# Predicion-de-inscripciones
-Proyecto para el semestre abr-ago 2020 
+# Proyecciones de inscripciones
+
+**Proyecto para el semestre Abr-Ago 2020**
 
 Cada semestre antes de empezar clases, las escuelas necesitan saber cuántos estudiantes van a ver una materia, a esta actividad se le llama proyecciones. La forma convencional de hacerlo, es agarrar el número de estudiantes que pasaron una materia y sumarle el número de estudiantes que la pueden repetir, este método no trae muchos problemas pero no suele ser confiable, ya que hay materias que pueden verse en cualquier momento por sus prelaciones o repetición, por lo que se nos pidió mejorar el sistema actual.
 
